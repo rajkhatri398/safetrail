@@ -1,6 +1,5 @@
 # SafeTrail - Blockchain-Powered Travel Platform ✈️🔗
 
-![SafeTrail Banner](https://via.placeholder.com/1200x400?text=SafeTrail+Blockchain+Travel+Platform)
 
 ## Table of Contents
 - [Overview](#overview)
