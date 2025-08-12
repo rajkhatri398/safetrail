@@ -1,18 +1,7 @@
 # SafeTrail - Blockchain-Powered Travel Platform ✈️🔗
 
 
-## Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Architecture](#architecture)
-- [Security Features](#security-features)
-- [Future Roadmap](#future-roadmap)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
