@@ -101,7 +101,3 @@ safetrail/
 - Persist blockchain state to disk or a database (currently in-memory, resets on restart)
 - Add real-time fare data instead of the simplified distance-based calculation
 - Expand the itinerary planner to multi-day trips
-
-## License
-
-Add your preferred license here (e.g., MIT).
